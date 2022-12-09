@@ -1,0 +1,22 @@
+.nacos-green {
+	color: #198906 !important;
+}
+
+/* .custom_shape {
+  background-color: red !important;
+  clip-path: polygon(100% 0, 100% 34%, 92% 64%, 83% 82%, 75% 90%, 61% 97%, 48% 100%, 0 100%, 0 0);
+} */
+
+.curve-bg {
+	background: url("../img/nacos/curved_bg.png");
+	background-size: cover !important;
+	background-repeat: norepeat;
+	/* height: 250px; */
+}
+
+.bg-img {
+	background: rgba(0, 128, 0, 0.3);
+	background-image: url("../img/backgrounds/Rectangle2.jpg") !important;
+	object-fit: cover;
+	/* opacity: 0.5; */
+}
